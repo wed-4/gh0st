@@ -3,26 +3,23 @@
 ========================================================================
 
 
-AppWizard has created this install application for you.  
-
-This file contains a summary of what you will find in each of the files that
-make up your install application.
+AppWizardはあなたのためにこのインストールアプリケーションを作成しました。 
+このファイルには、インストールアプリケーションを構成する各ファイルの内容がまとめられています。
+以下にこのインストールアプリケーションを構成する各ファイルに含まれるものの概要を記載する。
 
 install.cpp
-    This is the main application source file.
+    これはこのアプリケーションのメインのソースファイルである。
 
 install.dsp
-    This file (the project file) contains information at the project level and
-    is used to build a single project or subproject. Other users can share the
-    project (.dsp) file, but they should export the makefiles locally.
+    このファイル（プロジェクト・ファイル）にはプロジェクト・レベルの情報が含まれており、1つのプロジェクトまたはサブプロジェクトを構築するために使用される。
+    他のユーザーはプロジェクト(.dsp)ファイルを共有できるが、makefileはローカルにエクスポートする必要がある。
 	
 
 /////////////////////////////////////////////////////////////////////////////
-Other standard files:
+その他の標準的なファイル:
 
 StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named install.pch and a precompiled types file named StdAfx.obj.
+    これらのファイルは、install.pchというプリコンパイルされたヘッダー（PCH）ファイルを構築するために使用されます。
 
 
 /////////////////////////////////////////////////////////////////////////////
